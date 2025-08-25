@@ -1,7 +1,6 @@
 # Automatic detection of motion artefacts in the ECG signal from a wearable sensor using methods of artificial intelligence
-## Master's thesis
 
-The dataset is part of the Master's thesis above and made available under the GNU General Public License (GPL) version 3.0. Users are free to use and share this dataset in accordance with the terms of the GNU GPL.
+The dataset is made available under the GNU General Public License (GPL) version 3.0. Users are free to use and share this dataset in accordance with the terms of the GNU GPL.
 
 ### /data
 All of the raw ECG data files are located in this directory. There is a separate numbered directory for each of the subjects based on the assigned subject ID, the subdirectory */labels* contains files with manually labeled data.
