@@ -1,4 +1,4 @@
-# Automatic detection of motion artefacts in the ECG signal from a wearable sensor using methods of artificial intelligence
+# Automatic detection of interference in the ECG signal from a wearable sensor using methods of artificial intelligence
 
 The dataset is made available under the GNU General Public License (GPL) version 3.0. Users are free to use and share this dataset in accordance with the terms of the GNU GPL.
 
